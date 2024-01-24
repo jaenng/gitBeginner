@@ -9,4 +9,22 @@ int main(){
 }
 
 
+
 <nav class="forked from original source bg-body-tertiary">
+
+<nav class="margin bg-body-tertiary">
+</margin>
+
+<!-- As a link -->
+<nav class="navbar bg-body-tertiary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Navbar</a>
+  </div>
+</nav>
+
+<!-- As a heading -->
+<nav class="navbar bg-body-tertiary">
+  <div class="container-fluid">
+    <span class="navbar-brand mb-0 h1">Navbar</span>
+  </div>
+</nav>
